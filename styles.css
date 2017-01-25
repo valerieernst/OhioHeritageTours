@@ -1,7 +1,13 @@
 .jumbotron {
   background-image: url('http://maxpixel.freegreatpicture.com/static/photo/1x/Sky-Clouds-Farm-Ohio-Amish-Plants-Garden-Flowers-1936639.jpg');
   height: 100vh;
-  opacity: 0.6;
   background-position: center;
   background-size: cover;
+}
+
+.tour {
+  text-align: center;
+  border: solid black 2px;
+  border-radius: 5px;
+  margin: 4% 4%;
 }
