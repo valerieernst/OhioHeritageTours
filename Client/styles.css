@@ -1,0 +1,21 @@
+.jumbotron {
+  background-image: url('./Assets/barn.png');
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
+
+}
+
+.jumbotron .container {
+  text-align: center;
+}
+
+.tour {
+  text-align: center;
+  border: solid black 2px;
+  border-radius: 5px;
+  margin: 4% 4%;
+}
+
+
+/*Use this to make images transparent http://www.peko-step.com/en/tool/alphachannel_en.html*/
