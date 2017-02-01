@@ -1,3 +1,7 @@
+body {
+  background-color: #f5f3ed;
+}
+
 .jumbotron {
   background-image: url('./Assets/barn.png');
   height: 100vh;
@@ -10,12 +14,29 @@
   text-align: center;
 }
 
+.header {
+  margin-top: 12%;
+  background-color: rgba(248, 248, 248, 0.8);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 5px;
+}
+
 .tour {
   text-align: center;
   border: solid black 2px;
   border-radius: 5px;
-  margin: 4% 4%;
+  margin: 2% 4%;
+  background-color: #f8f8f8;
 }
 
+.media-object {
+  height: 160px;
+  max-width: 175px;
+  border: solid black 1px;
+  border-radius: 5px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
 
 /*Use this to make images transparent http://www.peko-step.com/en/tool/alphachannel_en.html*/
